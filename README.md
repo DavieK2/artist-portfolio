@@ -43,3 +43,7 @@ This project is built using **Laravel**, **TailwindCSS**, and **AlpineJS**.
 7. **Serve the application**:
      ```bash
     php artisan serve
+
+
+## Project Screenshots
+
