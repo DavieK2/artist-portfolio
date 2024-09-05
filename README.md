@@ -46,4 +46,11 @@ This project is built using **Laravel**, **TailwindCSS**, and **AlpineJS**.
 
 
 ## Project Screenshots
-
+<img src="public/images/Screenshot 2024-01-12 at 16.06.25.png" />
+<img src="public/images/Screenshot 2024-01-12 at 16.06.38.png" />
+<img src="public/images/Screenshot 2024-01-12 at 16.06.49.png" />
+<img src="public/images/Screenshot 2024-01-12 at 16.07.01.png" />
+<img src="public/images/Screenshot 2024-01-12 at 16.09.16.png" />
+<img src="public/images/Screenshot 2024-01-12 at 16.09.38.png" />
+<img src="public/images/Screenshot 2024-01-12 at 16.10.12.png" />
+<img src="public/images/Screenshot 2024-01-12 at 16.11.02.png" />
